@@ -42,7 +42,7 @@
   "author": "Drew Petersen <drewp@spotify.com>",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@spotify/web-scripts": "^8.1.1",
+    "@spotify/web-scripts": "^10.0.0",
     "coveralls": "^3.1.0",
     "in-publish": "^2.0.0",
     "istanbul": "^1.0.0-alpha.2",
