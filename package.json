@@ -42,13 +42,13 @@
   "author": "Drew Petersen <drewp@spotify.com>",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@spotify/web-scripts": "^8.1.1",
+    "@spotify/web-scripts": "^15.0.0",
     "coveralls": "^3.1.0",
     "in-publish": "^2.0.0",
     "istanbul": "^1.0.0-alpha.2",
-    "mocha": "^8.2.0",
-    "nyc": "^15.1.0",
-    "tape": "^5.0.1"
+    "mocha": "^9.1.2",
+    "nyc": "^17.0.0",
+    "tape": "^5.5.3"
   },
   "dependencies": {
     "async": "^3.2.0",
